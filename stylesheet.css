@@ -1,0 +1,52 @@
+body {
+    font-family: "bodoni 72 oldstyle", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "bodoni 72 smallcaps", cursive;
+}
+
+h2 {
+    size:20px;
+    color: black;
+}
+
+header h2 {
+    color: black;
+}
+
+.site-footer{
+    background-image: linear-gradient(#fae29c, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #d6b85a, #f9e076, #fdefb2);
+    color: black;
+    margin: 0;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #fc94af;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
